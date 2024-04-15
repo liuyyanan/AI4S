@@ -1,0 +1,5 @@
+PDE-NET:https://github.com/ZichaoLong/aTEAM?tab=readme-ov-file
+使用深度学习求解高维偏微分方程：https://github.com/mindspore-ai/models/tree/master/research/hpc/deepbsde
+基于深度学习的高维抛物线偏微分方程和后向随机微分方程数值方法：https://github.com/frankhan91/DeepBSDE
+
+
