@@ -1,0 +1,8 @@
+以物理为依据的深度学习（第一部分/第二部分）：https://github.com/maziarraissi/PINNs
+
+理论指导的硬约束投影（HCP）一种基于知识的数据驱动的科学机器学习方法：https://github.com/YuntianChen/Hard_constraint_projection_HCP
+
+深度最小二乘法：一种基于无监督学习的椭圆偏微分方程数值方法：https://github.com/janiechen8/DeepLSMethod
+基于物理约束深度学习的流体流动代理建模，无需仿真数据：https://github.com/Jianxun-Wang/LabelFree-DNN-Surrogate
+
+物理约束深度学习，用于高维代理建模和不确定性量化，无需标记数据：https://github.com/cics-nd/pde-surrogate
